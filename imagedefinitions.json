@@ -1,6 +1,6 @@
 [
     {
-      "name": "salmacontainer",
+      "name": "test-ecs",
       "imageUri": "753613252360.dkr.ecr.ap-south-1.amazonaws.com/ecs:latest"
     }
   ]
